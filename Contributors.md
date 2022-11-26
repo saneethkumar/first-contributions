@@ -678,4 +678,5 @@
 - [Rami Elsayed] (https://github.com/RamiE965)
 - [khushi](https://github.com/khushi0706)
 - [Deivisson Lisboa](https://github.com/DeivissonLisboa)
+- [Kiran Kumar Rega](https://github.com/kiranrega)
 <!-- prettier-ignore-end -->
